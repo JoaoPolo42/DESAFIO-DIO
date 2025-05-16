@@ -1,0 +1,10 @@
+Aqui está a classificação dos países pelo valor total adquirido em dólares americanos (USD), com todas as moedas convertidas usando as taxas fornecidas e ordenada em ordem decrescente:
+
+Posição	País	Valor Total Original	Valor Total em USD	Moedas Convertidas
+1	Canada	4.432 GBP / 1.100 EUR	6.290 USD	5.540 (GBP→USD) + 750 (EUR→USD)
+2	Japan	2.200 USD / 1.400 EUR	3.740 USD	2.200 (USD) + 1.540 (EUR→USD)
+3	France	1.750 EUR / 1.400 USD	3.325 USD	1.925 (EUR→USD) + 1.400 (USD)
+4	Australia	1.800 USD / 900 GBP	2.925 USD	1.800 (USD) + 1.125 (GBP→USD)
+5	UK	1.800 GBP / 200 EUR	2.470 USD	2.250 (GBP→USD) + 220 (EUR→USD)
+6	Germany	1.400 USD / 400 EUR	1.840 USD	1.400 (USD) + 440 (EUR→USD)
+7	USA	900 USD / 100 EUR	1.010 USD	900 (USD) + 110 (EUR→USD)
